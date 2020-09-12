@@ -24,4 +24,4 @@
 - Frameworks : Tensorflow 
 
 
-#####  You can find our PAPER (here)[https://docs.google.com/document/d/1Fk6uRNHvq6btsG8yL0DM_ZHeSn9nyNgHXM7yZkRy_rM/edit?usp=sharing]
+#####  You can find our PAPER [here](https://docs.google.com/document/d/1Fk6uRNHvq6btsG8yL0DM_ZHeSn9nyNgHXM7yZkRy_rM/edit?usp=sharing)
